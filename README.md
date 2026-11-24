@@ -26,4 +26,6 @@ Good to know:
 
 Just open `MemeMill.html` in any browser. It works with no internet connection.
 
+<img width="896" height="968" alt="meme1" src="https://github.com/user-attachments/assets/1bbfe822-0b59-41f0-ad32-28e6856fdfaf" />
+
 Yes, I went from fixing ripme for downloading memes to doing a meme maker.
